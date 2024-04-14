@@ -1,11 +1,11 @@
 # this is instruction for initial Ubuntu setup
 
 # Install these programms from Ubuntu Software
-  vs code
-  zoom
-  discord
-  GIMP
-  VLC
+   vs code
+   zoom
+   discord
+   GIMP
+   VLC
 
 # launch build.sh
   drop "SetupUbuntu" folder in "~" directory
