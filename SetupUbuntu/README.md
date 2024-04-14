@@ -1,13 +1,5 @@
 # This is instruction for initial Ubuntu setup
 
-## To do after:
-```
-cd
-rm -rf SetupUbuntu
-cd Downloads
-rm *
-```
-
 ## Install these programms from Ubuntu Software
 vs code  
 zoom  
@@ -66,3 +58,12 @@ check tutorial for adding layout here: https://www.youtube.com/watch?v=0qXIL8SdD
 
 ## Appearance
 settings -> Appearance -> Dark
+
+
+## To do after:
+```
+cd
+rm -rf SetupUbuntu
+cd Downloads
+rm *
+```
