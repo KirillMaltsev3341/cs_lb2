@@ -1,4 +1,4 @@
-# this is instruction for initial Ubuntu setup
+## This is instruction for initial Ubuntu setup
 
 # Install these programms from Ubuntu Software
 vs code  
