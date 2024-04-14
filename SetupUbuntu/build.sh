@@ -29,6 +29,9 @@ sudo apt-get install unzip -y
 # install pinta
 sudo apt-get install pinta -y
 
+# uninstall games
+sudo apt remove aisleriot gnome-mahjongg gnome-mines gnome-sudoku -y
+
 # install zsh terminal
 # check tutorial:
 # https://www.youtube.com/watch?v=UvY5aFHNoEw
@@ -39,9 +42,6 @@ cd terminal-profile
 ./install_powerline.sh
 ./install_terminal.sh
 ./install_profile.sh
-
-# uninstall games
-sudo apt remove aisleriot gnome-mahjongg gnome-mines gnome-sudoku -y
 
 # install google 
 cd
@@ -85,4 +85,4 @@ cd for\ linux
 chmod +x run_sudo_linux.bin
 # press ENTER
 # enter 1
-# get key from cd/Installers/Sublime Text 4 Build 4126 Full for Linux/Key.txt file
+# get license key from cd/Installers/Sublime Text 4 Build 4126 Full for Linux/Key.txt file
