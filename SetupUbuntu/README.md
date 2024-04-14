@@ -23,9 +23,9 @@ write these lines in terminal:
 cd
 sudo nano /etc/gdm3/custom.conf
 ```
-uncomment 7 line:  
+uncomment line 7:  
 ```
-#WaylandEnable=false
+#WaylandEnable=false -> WaylandEnable=false
 ```
 
 
