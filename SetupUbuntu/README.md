@@ -1,5 +1,13 @@
 # This is instruction for initial Ubuntu setup
 
+## To do after:
+```
+cd
+rm -rf SetupUbuntu
+cd Downloads
+rm *
+```
+
 ## Install these programms from Ubuntu Software
 vs code  
 zoom  
