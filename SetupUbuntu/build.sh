@@ -29,8 +29,15 @@ sudo apt-get install unzip -y
 # install pinta
 sudo apt-get install pinta -y
 
+# install scrcpy
+sudo apt-get install adb -y
+sudo apt-get install scrcpy -y
+
 # uninstall games
 sudo apt remove aisleriot gnome-mahjongg gnome-mines gnome-sudoku -y
+
+# disable screenshot sound
+sudo mv /usr/share/sounds/freedesktop/stereo/camera-shutter.oga /usr/share/sounds/freedesktop/stereo/camera-shutter-disabled.oga
 
 # install zsh terminal
 # check tutorial:
