@@ -23,6 +23,9 @@ sudo apt-get install python3 -y
 # install golang
 sudo apt-get install golang -y
 
+# install cmake
+sudo apt-get install cmake -y
+
 # install unzip
 sudo apt-get install unzip -y
 

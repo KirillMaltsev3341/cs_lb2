@@ -1,4 +1,5 @@
 # This is instruction for initial Ubuntu setup
+(can't wait to switch to Arch btw)
 
 ## Install these programms from Ubuntu Software
 vs code  
